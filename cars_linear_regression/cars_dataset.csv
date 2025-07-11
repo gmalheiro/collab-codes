@@ -1,0 +1,11 @@
+Brand,Age,EngineSize,Price,Automatic
+Ford,3,2.0,55000,Yes
+Volkswagen,1,1.6,67000,No
+BMW,4,3.0,120000,Yes
+Ford,6,,35000,No
+BMW,5,2.5,95000,No
+Volkswagen,2,1.4,52000,No
+Ford,,1.8,40000,Yes
+BMW,3,3.2,115000,Yes
+Volkswagen,7,1.6,30000,No
+Ford,4,2.0,58000,No
